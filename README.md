@@ -33,7 +33,8 @@ Built with plain **HTML5, CSS3 and vanilla JavaScript** (no frameworks, no build
 
 ### Phone
 
-<img src="screenshots/home-mobile.png" alt="Home page on phone" width="320">
+<img width="390" height="4457" alt="home-mobile" src="https://github.com/user-attachments/assets/fe60c339-606e-411d-8b32-52e5854391fa" />
+
 
 ---
 
