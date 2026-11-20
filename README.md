@@ -28,7 +28,8 @@ Built with plain **HTML5, CSS3 and vanilla JavaScript** (no frameworks, no build
 
 ### Desktop
 
-![Home page on desktop](screenshots/home-desktop.png)
+<img width="2732" height="4954" alt="home-desktop" src="https://github.com/user-attachments/assets/08ddf0d2-3666-415d-b298-dd2c11e14d04" />
+
 
 ### Phone
 
