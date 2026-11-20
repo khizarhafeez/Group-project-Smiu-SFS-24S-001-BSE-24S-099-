@@ -18,7 +18,7 @@ body {
   font-family: "Segoe UI", system-ui, -apple-system, Roboto, Arial, sans-serif;
   color: var(--ink);
   background: var(--bg);
-  line-height: 1.6;
+  line-height: 1.5;
 }
 img { max-width: 100%; display: block; }
 a { color: var(--green); text-decoration: none; }
@@ -102,7 +102,7 @@ a { color: var(--green); text-decoration: none; }
 }
 .card:hover { transform: translateY(-4px); }
 .card-top {
-  height: 110px; display: flex; align-items: flex-end; padding: 14px;
+  height: 120px; display: flex; align-items: flex-end; padding: 14px;
   color: #fff; font-size: 2.2rem;
 }
 .card-body { padding: 18px; display: flex; flex-direction: column; gap: 8px; flex: 1; }
